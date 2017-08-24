@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\vic\AndroidStudioProjects\MQTTzebra\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\vic\AndroidStudioProjects\MQTTzebra\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0_ac5ff2d288ba50cfe87d3a9fb31e175e3e3692e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vic\AndroidStudioProjects\MQTTzebra\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\vic\AndroidStudioProjects\MQTTzebra\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-20.0.0_0d25c446674f50c4f899ca87938b64132c7e4f59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vic\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\vic\AndroidStudioProjects\MQTTzebra\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0_7d701b189ad7c4cbe2060ffcab2995b8001c5b3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vic\AndroidStudioProjects\MQTTzebra\app\libs\org.eclipse.paho.client.mqttv3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4e7064b9cd19e5127cb730fe1493e3dd3a93e17">
+        <dex dex="C:\Users\vic\AndroidStudioProjects\MQTTzebra\app\build\intermediates\pre-dexed\debug\org.eclipse.paho.client.mqttv3_b735e65a78aff48b806febd83029843f9fc7e79b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vic\AndroidStudioProjects\MQTTzebra\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\vic\AndroidStudioProjects\MQTTzebra\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-20.0.0_d1ba53fe28f986b38fc3edf6070faedc4d1ee2b0.jar" />
+    </item>
+
+</items>
